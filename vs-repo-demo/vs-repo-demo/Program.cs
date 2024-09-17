@@ -10,6 +10,7 @@ namespace vs_repo_demo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi");
         }
     }
 }
